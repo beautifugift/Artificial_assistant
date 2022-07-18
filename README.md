@@ -1,2 +1,2 @@
-# Artificiala_assistant
+# Artificial_assistant
 invisible_friend-Alexa
